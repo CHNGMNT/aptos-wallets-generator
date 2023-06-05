@@ -7,3 +7,5 @@
 'requirements.txt' установить библиотеки и в файле data.py указать путь до папки с aptos-sdk
 
 В main.py указываем количество кошельков и запускаем
+
+После запуска создается папка results вместе с private_keys.txt, addresses.txt и wallets.csv
